@@ -1,0 +1,1 @@
+I used ARIMA from statsmodels for quarterly revenue forecasting. I first converted the financial data into a time-series format using datetime indexing, then trained an ARIMA(1,1,1) Model to capture historical trends and forecast future quarters. I visualized the forecast results using matplotlib and exported outputs for dashboard integration.
