@@ -28,21 +28,21 @@ This project uses Python-based time-series forecasting to predict quarterly reve
 
 ### Revenue trends
 
-![Revenue trends](visuals/revenue_trends.png)
+![Revenue trends](./visuals/revenue_trends.png)
 
 ### ARIMA Revenue Forecast
 
-![ARIMA Forecast](visuals/ARIMA_forecast.png)
+![ARIMA Forecast](./visuals/ARIMA_forecast.png)
 
 ### Actual vs Predicted Revenue
 
-![Actual vs Predicted](visuals/actual_vs_predicted.png)
+![Actual vs Predicted](./visuals/actual_vs_predicted.png)
 
 ### Budget Variance Analysis
 
-![Budget Variance](visuals/budget_variance.png)
+![Budget Variance](./visuals/budget_variance.png)
 
 ### Prophet Forecast
 
-![Prophet Forecast](visuals/prophet_forecast.png)
+![Prophet Forecast](./visuals/prophet_forecast.png)
 
